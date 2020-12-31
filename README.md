@@ -1,3 +1,4 @@
 # python-xd
-codigo para descargar videos de youtube hecho con python y la libreria pytube xd
+a simple python script to download videos from youtube lmao
+
 
